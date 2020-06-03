@@ -1,0 +1,2 @@
+option('enable-tizen', type: 'boolean', value: false)
+option('enable-vivante', type: 'boolean', value: false)

@@ -1,0 +1,8 @@
+[tizen-base]
+name=tizen-base
+enabled=1
+autorefresh=0
+baseurl=http://download.tizen.org/snapshots/tizen/base/latest/repos/standard/packages/?ssl_verify=no
+type=rpm-md
+gpgcheck=0
+priority=20
