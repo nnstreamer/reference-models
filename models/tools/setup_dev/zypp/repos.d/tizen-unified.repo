@@ -1,0 +1,8 @@
+[tizen-unified]
+name=tizen-unified
+enabled=1
+autorefresh=0
+baseurl=http://download.tizen.org/snapshots/tizen/unified/latest/repos/standard/packages/?ssl_verify=no
+type=rpm-md
+gpgcheck=0
+priority=40
